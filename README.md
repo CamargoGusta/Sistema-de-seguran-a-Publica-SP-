@@ -25,5 +25,3 @@ Desenvolver uma solução tecnológica capaz de:
 🤝 Equipe de Desenvolvimento
 O projeto foi desenvolvido em parceria com um time multidisciplinar, engajado e comprometido com a entrega de soluções com impacto social:
 Ana Carolina Martins Souza, Bianca Porto, Fernando Matos de Sousa, Gabriel Pereira Cesar, Davi Dell Isola, Guilherme Nicacio, Vinicius Peixoto Morais, Matheus Francisco da Silva Barbosa e Mayara Caroline.
-📎 Acesse o repositório completo:
-🔗 https://lnkd.in/dGnh7X2Z
